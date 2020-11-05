@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "6951327"
+    target: "kernel_redbull_debug_memory"
+    source_file: "wsa883x_dlkm.ko"
+  }
+  dest_file: "debug_memory/wsa883x_dlkm.ko"
+  version: "Linux version 4.19.125-gca3bec8d051e-ab6951327 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Sat Oct 31 07:53:16 UTC 2020"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/redbull-kernel"
+}
