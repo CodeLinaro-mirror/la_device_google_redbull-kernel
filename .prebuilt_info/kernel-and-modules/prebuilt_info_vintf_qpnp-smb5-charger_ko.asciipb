@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6957265"
+    build_id: "6962043"
     target: "kernel_redbull_vintf"
     source_file: "qpnp-smb5-charger.ko"
   }
   dest_file: "vintf/qpnp-smb5-charger.ko"
-  version: "Linux version 4.19.125-g5b0df79eba5d-ab6957265 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Nov 5 04:28:16 UTC 2020"
+  version: "Linux version 4.19.125-gdb85950b2c5f-ab6962043 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 9 20:20:30 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
