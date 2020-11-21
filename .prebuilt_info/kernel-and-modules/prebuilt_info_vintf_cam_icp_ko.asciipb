@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6976944"
+    build_id: "6986781"
     target: "kernel_redbull_vintf"
     source_file: "cam_icp.ko"
   }
   dest_file: "vintf/cam_icp.ko"
-  version: "Linux version 4.19.135-gbed8adc11364-ab6976944 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Nov 13 08:07:59 UTC 2020"
+  version: "Linux version 4.19.135-gd987d650e716-ab6986781 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Nov 20 01:54:16 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
