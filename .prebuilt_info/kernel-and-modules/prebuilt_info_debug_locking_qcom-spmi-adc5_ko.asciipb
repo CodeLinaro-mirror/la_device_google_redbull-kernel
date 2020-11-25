@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6989782"
+    build_id: "6990871"
     target: "kernel_redbull_debug_locking"
     source_file: "qcom-spmi-adc5.ko"
   }
   dest_file: "debug_locking/qcom-spmi-adc5.ko"
-  version: "Linux version 4.19.135-g2be0fd7a997b-ab6989782 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 23 02:34:21 UTC 2020"
+  version: "Linux version 4.19.135-g097a3a48ae5b-ab6990871 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 23 15:20:43 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
