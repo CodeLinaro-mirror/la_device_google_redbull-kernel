@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6990871"
+    build_id: "7009262"
     target: "kernel_redbull_vintf"
     source_file: "rpmsg_char.ko"
   }
   dest_file: "vintf/rpmsg_char.ko"
-  version: "Linux version 4.19.135-g097a3a48ae5b-ab6990871 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Nov 23 15:20:43 UTC 2020"
+  version: "Linux version 4.19.135-gaa76af60fe89-ab7009262 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Dec 3 07:47:11 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
