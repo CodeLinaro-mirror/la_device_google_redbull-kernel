@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7009262"
+    build_id: "7015604"
     target: "kernel_redbull_kasan"
     source_file: "cam_req_mgr_late.ko"
   }
   dest_file: "kasan/cam_req_mgr_late.ko"
-  version: "Linux version 4.19.135-gaa76af60fe89-ab7009262 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Dec 3 07:47:11 UTC 2020"
+  version: "Linux version 4.19.135-gebb104bc88dd-ab7015604 (build-user@build-host) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Fri Dec 4 21:00:29 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
