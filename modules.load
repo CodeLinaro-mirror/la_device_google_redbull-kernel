@@ -55,6 +55,8 @@ kernel/drivers/soc/qcom/memshare/heap_mem_ext_v01.ko
 kernel/drivers/soc/qcom/memshare/msm_memshare.ko
 kernel/drivers/soc/qcom/peripheral-loader.ko
 kernel/drivers/soc/qcom/qdsp6v2/cdsp-loader.ko
+kernel/drivers/soc/qcom/jtagv8.ko
+kernel/drivers/soc/qcom/jtagv8-etm.ko
 kernel/drivers/soc/qcom/smcinvoke.ko
 kernel/drivers/soc/qcom/rq_stats.ko
 kernel/drivers/soc/qcom/subsystem_notif.ko
