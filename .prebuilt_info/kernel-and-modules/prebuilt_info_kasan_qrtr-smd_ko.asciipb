@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7015604"
+    build_id: "7026550"
     target: "kernel_redbull_kasan"
     source_file: "qrtr-smd.ko"
   }
   dest_file: "kasan/qrtr-smd.ko"
-  version: "Linux version 4.19.135-gebb104bc88dd-ab7015604 (build-user@build-host) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Fri Dec 4 21:00:29 UTC 2020"
+  version: "Linux version 4.19.135-g53d2d5658d22-ab7026550 (build-user@build-host) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Fri Dec 11 02:29:38 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
