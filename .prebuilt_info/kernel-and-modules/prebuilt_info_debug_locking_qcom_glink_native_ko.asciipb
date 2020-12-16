@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7033316"
+    build_id: "7034929"
     target: "kernel_redbull_debug_locking"
     source_file: "qcom_glink_native.ko"
   }
   dest_file: "debug_locking/qcom_glink_native.ko"
-  version: "Linux version 4.19.135-g0c0d7663eaa4-ab7033316 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Dec 14 10:14:14 UTC 2020"
+  version: "Linux version 4.19.135-g8c06e167af5e-ab7034929 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Dec 15 13:17:28 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
