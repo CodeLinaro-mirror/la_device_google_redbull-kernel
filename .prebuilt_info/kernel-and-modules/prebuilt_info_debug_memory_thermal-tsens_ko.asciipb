@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7036585"
+    build_id: "7038530"
     target: "kernel_redbull_debug_memory"
     source_file: "thermal-tsens.ko"
   }
   dest_file: "debug_memory/thermal-tsens.ko"
-  version: "Linux version 4.19.135-gd1ae6edae80d-ab7036585 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Dec 16 03:22:51 UTC 2020"
+  version: "Linux version 4.19.135-gd1ae6edae80d-ab7038530 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Dec 16 03:22:51 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
