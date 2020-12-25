@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7040804"
+    build_id: "7048297"
     target: "kernel_redbull"
     source_file: "mbhc_dlkm.ko"
   }
   dest_file: "mbhc_dlkm.ko"
-  version: "Linux version 4.19.135-g4c26e0f08c51-ab7040804 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Dec 17 18:30:25 UTC 2020"
+  version: "Linux version 4.19.135-gd757f027f0c1-ab7048297 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Dec 23 06:36:10 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
