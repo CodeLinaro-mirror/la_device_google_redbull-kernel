@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7056613"
+    build_id: "7074445"
     target: "kernel_redbull_kasan"
     source_file: "snd-soc-rt5514-spi.ko"
   }
   dest_file: "kasan/snd-soc-rt5514-spi.ko"
-  version: "Linux version 4.19.145-gad7746a03a68-ab7056613 (build-user@build-host) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Wed Dec 30 06:33:15 UTC 2020"
+  version: "Linux version 4.19.145-g9d6add94459c-ab7074445 (build-user@build-host) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Mon Jan 11 06:12:33 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
