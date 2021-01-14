@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7056683"
+    build_id: "7081188"
     target: "kernel_redbull_debug_memory"
     source_file: "llcc-lito.ko"
   }
   dest_file: "debug_memory/llcc-lito.ko"
-  version: "Linux version 4.19.135-g59bea9d37365-ab7056683 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Dec 29 09:10:20 UTC 2020"
+  version: "Linux version 4.19.135-gdb4bfbca77cf-ab7081188 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Jan 13 15:46:27 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
