@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7214601"
+    build_id: "7217379"
     target: "kernel_redbull_kasan"
     source_file: "usb_f_diag.ko"
   }
   dest_file: "kasan/usb_f_diag.ko"
-  version: "Linux version 4.19.171-gbc51ba52e2c6-ab7214601 (build-user@build-host) (Android (7141649, based on r412851) clang version 12.0.3 (https://android.googlesource.com/toolchain/llvm-project 756ad17abf0622fecdd08ec40f71c5f25829a0bc), LLD 12.0.3 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld 756ad17abf0622fecdd08ec40f71c5f25829a0bc)) #1 SMP PREEMPT Wed Mar 17 02:55:07 UTC 2021"
+  version: "Linux version 4.19.177-g9ee70e1ac810-ab7217379 (build-user@build-host) (Android (7141649, based on r412851) clang version 12.0.3 (https://android.googlesource.com/toolchain/llvm-project 756ad17abf0622fecdd08ec40f71c5f25829a0bc), LLD 12.0.3 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld 756ad17abf0622fecdd08ec40f71c5f25829a0bc)) #1 SMP PREEMPT Wed Mar 17 12:45:46 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
