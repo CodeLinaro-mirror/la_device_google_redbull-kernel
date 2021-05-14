@@ -38,6 +38,7 @@ kernel/drivers/soc/qcom/smp2p.ko
 kernel/drivers/soc/qcom/qcom_ipcc.ko
 kernel/drivers/soc/qcom/llcc-slice.ko
 kernel/drivers/soc/qcom/llcc-lito.ko
+kernel/drivers/soc/qcom/llcc-orchid.ko
 kernel/drivers/soc/qcom/llcc_perfmon.ko
 kernel/drivers/soc/qcom/secure_buffer.ko
 kernel/drivers/soc/qcom/qtee_shm_bridge.ko
