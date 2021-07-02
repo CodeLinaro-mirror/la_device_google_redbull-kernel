@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7489855"
+    build_id: "7512702"
     target: "kernel_redbull_debug_memory_accounting"
     source_file: "lmh_dbg.ko"
   }
   dest_file: "debug_memory_accounting/lmh_dbg.ko"
-  version: "Linux version 4.19.191-g0b3003651a20-ab7489855 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Jun 24 01:41:54 UTC 2021"
+  version: "Linux version 4.19.191-g3c0e7d685ce1-ab7512702 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Jul 1 07:06:29 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
