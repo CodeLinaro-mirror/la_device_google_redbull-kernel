@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7742009"
+    build_id: "7793570"
     target: "kernel_redbull_vintf"
     source_file: "phy-msm-snps-hs.ko"
   }
   dest_file: "vintf/phy-msm-snps-hs.ko"
-  version: "Linux version 4.19.202-g0652df92ffcc-ab7742009 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri Sep 17 05:37:03 UTC 2021"
+  version: "Linux version 4.19.202-g57b0baeb5109-ab7793570 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon Oct 4 11:44:45 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
