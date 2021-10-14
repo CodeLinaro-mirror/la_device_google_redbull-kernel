@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7508408"
+    build_id: "7624114"
     target: "kernel_redbull_vintf"
     source_file: "msm_adreno.ko"
   }
   dest_file: "vintf/msm_adreno.ko"
-  version: "Linux version 4.19.160-g85b17737b5f2-ab7508408 (build-user@build-host) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79), LLD 11.0.1 (/buildbot/tmp/tmp6_m7QH b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Jun 30 08:01:04 UTC 2021"
+  version: "Linux version 4.19.191-gc2161d44afae-ab7624114 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon Aug 9 09:02:05 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
