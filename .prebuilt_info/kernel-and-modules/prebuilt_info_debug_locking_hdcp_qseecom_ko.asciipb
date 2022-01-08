@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7966038"
+    build_id: "8049352"
     target: "kernel_redbull_debug_locking"
     source_file: "hdcp_qseecom.ko"
   }
   dest_file: "debug_locking/hdcp_qseecom.ko"
-  version: "Linux version 4.19.215-g2104027e4c82-ab7966038 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Dec 2 08:17:13 UTC 2021"
+  version: "Linux version 4.19.220-gf4d61a4e3eb7-ab8049352 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon Jan 3 08:52:32 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
