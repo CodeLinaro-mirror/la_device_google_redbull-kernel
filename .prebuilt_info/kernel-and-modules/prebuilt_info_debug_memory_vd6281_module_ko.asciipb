@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8268307"
+    build_id: "8300179"
     target: "kernel_redbull_debug_memory"
     source_file: "vd6281_module.ko"
   }
   dest_file: "debug_memory/vd6281_module.ko"
-  version: "Linux version 4.19.224-g69fd8651238b-ab8268307 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon Mar 7 19:52:31 UTC 2022"
+  version: "Linux version 4.19.224-ge21a2d2cca00-ab8300179 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Mar 8 07:43:57 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
