@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8475902"
+    build_id: "8564085"
     target: "kernel_redbull"
     source_file: "qcom_glink_native.ko"
   }
   dest_file: "qcom_glink_native.ko"
-  version: "Linux version 4.19.234-gb4d01eea8cd4-ab8475902 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Apr 20 02:15:48 UTC 2022"
+  version: "Linux version 4.19.234-g0fa55ec9a627-ab8564085 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon May 9 14:00:58 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
