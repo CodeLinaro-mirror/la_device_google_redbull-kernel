@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8651885"
+    build_id: "8667591"
     target: "kernel_redbull_kasan"
     source_file: "cam_jpeg.ko"
   }
   dest_file: "kasan/cam_jpeg.ko"
-  version: "Linux version 4.19.239-g4285a380157b-ab8651885 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri May 27 02:07:35 UTC 2022"
+  version: "Linux version 4.19.239-g06bf72bf9f39-ab8667591 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon May 30 09:29:36 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
