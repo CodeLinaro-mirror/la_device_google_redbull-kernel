@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8752534"
+    build_id: "8874765"
     target: "kernel_redbull_debug_memory"
     source_file: "phy-qcom-ufs-qmp-v4.ko"
   }
   dest_file: "debug_memory/phy-qcom-ufs-qmp-v4.ko"
-  version: "Linux version 4.19.245-g709815d3abec-ab8752534 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Jun 21 14:28:57 UTC 2022"
+  version: "Linux version 4.19.248-g32f1dac571e6-ab8874765 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Jul 27 03:29:47 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
