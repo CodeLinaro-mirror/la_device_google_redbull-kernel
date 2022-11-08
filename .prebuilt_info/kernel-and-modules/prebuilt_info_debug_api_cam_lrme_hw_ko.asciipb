@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8929504"
+    build_id: "9062766"
     target: "kernel_redbull_debug_api"
     source_file: "cam_lrme_hw.ko"
   }
   dest_file: "debug_api/cam_lrme_hw.ko"
-  version: "Linux version 4.19.239-g8a248e288155-ab8929504 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Aug 10 07:52:55 UTC 2022"
+  version: "Linux version 4.19.239-g248fa42a73b2-ab9062766 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Sep 14 05:22:28 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
