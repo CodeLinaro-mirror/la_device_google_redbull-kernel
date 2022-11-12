@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9086279"
+    build_id: "9275642"
     target: "kernel_redbull_debug_locking"
     source_file: "msm_geni_serial.ko"
   }
   dest_file: "debug_locking/msm_geni_serial.ko"
-  version: "Linux version 4.19.255-g920baab88ff0-ab9086279 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Sep 20 13:01:03 UTC 2022"
+  version: "Linux version 4.19.261-gf9e3c065417a-ab9275642 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Nov 9 12:49:18 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
