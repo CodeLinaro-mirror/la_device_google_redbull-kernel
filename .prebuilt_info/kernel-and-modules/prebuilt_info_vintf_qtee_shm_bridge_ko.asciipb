@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8577203"
+    build_id: "9276409"
     target: "kernel_redbull_vintf"
     source_file: "qtee_shm_bridge.ko"
   }
   dest_file: "vintf/qtee_shm_bridge.ko"
-  version: "Linux version 4.19.224-g9e23c2625924-ab8577203 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu May 12 05:21:57 UTC 2022"
+  version: "Linux version 4.19.252-g005154455a52-ab9276409 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Nov 9 11:59:07 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
