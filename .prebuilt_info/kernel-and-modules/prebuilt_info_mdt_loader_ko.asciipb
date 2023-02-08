@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9558689"
+    build_id: "9563969"
     target: "kernel_redbull"
     source_file: "mdt_loader.ko"
   }
   dest_file: "mdt_loader.ko"
-  version: "Linux version 4.19.266-g6a38cb9d65d6-ab9558689 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Feb 1 03:15:28 UTC 2023"
+  version: "Linux version 4.19.269-g20aa18cacb7a-ab9563969 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Sat Feb 4 02:42:49 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
