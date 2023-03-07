@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9563969"
+    build_id: "9645016"
     target: "kernel_redbull_kasan"
     source_file: "cam_hfi.ko"
   }
   dest_file: "kasan/cam_hfi.ko"
-  version: "Linux version 4.19.269-g20aa18cacb7a-ab9563969 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Sat Feb 4 02:42:49 UTC 2023"
+  version: "Linux version 4.19.272-ga1d6eab4f092-ab9645016 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Feb 23 06:45:34 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
