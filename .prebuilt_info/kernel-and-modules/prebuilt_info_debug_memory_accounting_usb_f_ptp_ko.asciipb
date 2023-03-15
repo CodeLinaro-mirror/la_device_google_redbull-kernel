@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9715281"
+    build_id: "9748787"
     target: "kernel_redbull_debug_memory_accounting"
     source_file: "usb_f_ptp.ko"
   }
   dest_file: "debug_memory_accounting/usb_f_ptp.ko"
-  version: "Linux version 4.19.272-ge6b61cdd7e0d-ab9715281 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Mar 1 06:37:18 UTC 2023"
+  version: "Linux version 4.19.272-ge5dd6197e8a2-ab9748787 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Mar 14 03:32:27 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
