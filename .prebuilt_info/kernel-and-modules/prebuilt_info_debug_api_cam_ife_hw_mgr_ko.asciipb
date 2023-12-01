@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11047627"
+    build_id: "11165683"
     target: "kernel_redbull_debug_api"
     source_file: "cam_ife_hw_mgr.ko"
   }
   dest_file: "debug_api/cam_ife_hw_mgr.ko"
-  version: "11047627"
+  version: "11165683"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
