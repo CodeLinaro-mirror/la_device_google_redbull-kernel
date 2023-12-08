@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11047627"
+    build_id: "11137546"
     target: "kernel_redbull_kasan"
     source_file: "msm_ipc_logging.ko"
   }
   dest_file: "kasan/msm_ipc_logging.ko"
-  version: "11047627"
+  version: "11137546"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
