@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11165683"
+    build_id: "11196778"
     target: "kernel_redbull_vintf"
     source_file: "qmi_cdev.ko"
   }
   dest_file: "vintf/qmi_cdev.ko"
-  version: "11165683"
+  version: "11196778"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
