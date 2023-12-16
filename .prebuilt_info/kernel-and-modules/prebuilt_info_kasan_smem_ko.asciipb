@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11047627"
+    build_id: "11196778"
     target: "kernel_redbull_kasan"
     source_file: "smem.ko"
   }
   dest_file: "kasan/smem.ko"
-  version: "11047627"
+  version: "11196778"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }

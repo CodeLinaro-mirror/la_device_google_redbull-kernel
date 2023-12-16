@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11047627"
+    build_id: "11196778"
     target: "kernel_redbull"
     source_file: "Image.lz4-dtb"
   }
   dest_file: "Image.lz4-dtb"
-  version: "11047627"
+  version: "11196778"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
