@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11258406"
+    build_id: "11361577"
     target: "kernel_redbull_debug_memory"
     source_file: "fsa4480-i2c.ko"
   }
   dest_file: "debug_memory/fsa4480-i2c.ko"
-  version: "11258406"
+  version: "11361577"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
