@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11196778"
+    build_id: "11499301"
     target: "kernel_redbull"
     source_file: "leds-qpnp-flash-v2.ko"
   }
   dest_file: "leds-qpnp-flash-v2.ko"
-  version: "11196778"
+  version: "11499301"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
