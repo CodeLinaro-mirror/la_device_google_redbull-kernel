@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11499301"
+    build_id: "11512698"
     target: "kernel_redbull_debug_memory"
     source_file: "fw-update.ko"
   }
   dest_file: "debug_memory/fw-update.ko"
-  version: "11499301"
+  version: "11512698"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
