@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11499301"
+    build_id: "11512698"
     target: "kernel_redbull_debug_memory_accounting"
     source_file: "cam_ife_csid_lite17x.ko"
   }
   dest_file: "debug_memory_accounting/cam_ife_csid_lite17x.ko"
-  version: "11499301"
+  version: "11512698"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
