@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11499301"
+    build_id: "11547366"
     target: "kernel_redbull"
     source_file: "phy-qcom-ufs-qrbtc-sdm845.ko"
   }
   dest_file: "phy-qcom-ufs-qrbtc-sdm845.ko"
-  version: "11499301"
+  version: "11547366"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
