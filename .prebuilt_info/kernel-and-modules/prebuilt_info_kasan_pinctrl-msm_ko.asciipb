@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11432546"
+    build_id: "11524816"
     target: "kernel_redbull_kasan"
     source_file: "pinctrl-msm.ko"
   }
   dest_file: "kasan/pinctrl-msm.ko"
-  version: "11432546"
+  version: "11524816"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
