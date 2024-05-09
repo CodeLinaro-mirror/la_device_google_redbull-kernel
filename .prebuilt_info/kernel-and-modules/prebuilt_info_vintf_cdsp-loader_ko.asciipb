@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11664427"
+    build_id: "11810664"
     target: "kernel_redbull_vintf"
     source_file: "cdsp-loader.ko"
   }
   dest_file: "vintf/cdsp-loader.ko"
-  version: "11664427"
+  version: "11810664"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }

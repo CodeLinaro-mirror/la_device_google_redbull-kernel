@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11664427"
+    build_id: "11810664"
     target: "kernel_redbull_debug_memory"
     source_file: "watchdog_v2.ko"
   }
   dest_file: "debug_memory/watchdog_v2.ko"
-  version: "11664427"
+  version: "11810664"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
