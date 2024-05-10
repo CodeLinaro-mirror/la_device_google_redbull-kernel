@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9399348"
+    build_id: "10893502"
     target: "kernel_redbull_vintf"
     source_file: "xhci-plat-hcd.ko"
   }
   dest_file: "vintf/xhci-plat-hcd.ko"
-  version: "Linux version 4.19.252-gee570aebd3c1-ab9399348 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Dec 13 10:07:05 UTC 2022"
+  version: "Linux version 4.19.282-g4b749a433956-ab10893502 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri Sep 22 09:02:07 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
