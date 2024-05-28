@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11512698"
+    build_id: "11664427"
     target: "kernel_redbull_debug_memory"
     source_file: "governor_bw_vbif.ko"
   }
   dest_file: "debug_memory/governor_bw_vbif.ko"
-  version: "11512698"
+  version: "11664427"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
