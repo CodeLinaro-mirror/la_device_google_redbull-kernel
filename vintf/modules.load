@@ -230,8 +230,6 @@ kernel/sound/soc/codecs/snd-soc-wm-adsp.ko
 kernel/sound/soc/codecs/snd-soc-cs35l41.ko
 kernel/sound/soc/codecs/snd-soc-cs35l41-i2c.ko
 kernel/sound/soc/codecs/snd-soc-codec-misc.ko
-kernel/techpack/video/msm/msm-vidc.ko
-kernel/techpack/display/msm/msm_drm.ko
 kernel/techpack/camera/drivers/cam_req_mgr/cam_mem_mgr.ko
 kernel/techpack/camera/drivers/cam_req_mgr/cam_req_mgr_late.ko
 kernel/techpack/camera/drivers/cam_req_mgr/cam_req_mgr.ko
@@ -288,6 +286,8 @@ kernel/techpack/camera/drivers/cam_cust/cam_custom_hw_mgr/cam_custom_csid/cam_cu
 kernel/techpack/camera/drivers/cam_cust/cam_custom_hw_mgr/cam_custom_hw_mgr.ko
 kernel/techpack/camera/drivers/cam_cust/cam_custom_dev.ko
 kernel/techpack/camera/drivers/cam_cust/cam_custom_context.ko
+kernel/techpack/display/msm/msm_drm.ko
+kernel/techpack/video/msm/msm-vidc.ko
 kernel/techpack/audio/soc/pinctrl_lpi_dlkm.ko
 kernel/techpack/audio/soc/swr_dlkm.ko
 kernel/techpack/audio/soc/snd_event_dlkm.ko
