@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11810664"
+    build_id: "11922802"
     target: "kernel_redbull_debug_memory_accounting"
     source_file: "fastcvpd.ko"
   }
   dest_file: "debug_memory_accounting/fastcvpd.ko"
-  version: "11810664"
+  version: "11922802"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
