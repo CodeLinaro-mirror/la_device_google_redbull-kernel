@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11547366"
+    build_id: "11910333"
     target: "kernel_redbull_kasan"
     source_file: "ftm5.ko"
   }
   dest_file: "kasan/ftm5.ko"
-  version: "11547366"
+  version: "11910333"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
