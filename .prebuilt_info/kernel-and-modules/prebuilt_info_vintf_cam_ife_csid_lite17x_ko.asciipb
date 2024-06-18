@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11664427"
+    build_id: "11910333"
     target: "kernel_redbull_vintf"
     source_file: "cam_ife_csid_lite17x.ko"
   }
   dest_file: "vintf/cam_ife_csid_lite17x.ko"
-  version: "11664427"
+  version: "11910333"
   version_group: "kernel-and-modules"
   git_project: "device/google/redbull-kernel"
 }
